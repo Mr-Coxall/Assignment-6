@@ -1,7 +1,7 @@
 # Created by: Mr. Coxall
-# Created on: Sep 2016
+# Created on: Nov 2017
 # Created for: ICS3U
-# This program plays 21, using classes
+# This program just shows cards ...
 
 import ui
 
